@@ -41,7 +41,10 @@ namespace Lab16_WebAPI.Controllers
       var contact = new Contact()
       {
         Id = Guid.NewGuid(),
-        Name = viewModel.Name,
+        FName = viewModel.FName,
+        SName = viewModel.SName,
+        Age = viewModel.Age,
+        WorkPlace = viewModel.WorkPlace,
         Email = viewModel.Email,
         Phone = viewModel.Phone,
         Address = viewModel.Address
@@ -61,7 +64,10 @@ namespace Lab16_WebAPI.Controllers
 
       if(contact != null) 
       {
-        contact.Name = viewModel.Name;
+        contact.FName = viewModel.FName;
+        contact.SName = viewModel.SName;
+        contact.Age = viewModel.Age;
+        contact.WorkPlace = viewModel.WorkPlace;
         contact.Email = viewModel.Email;  
         contact.Phone = viewModel.Phone;
         contact.Address = viewModel.Address;
