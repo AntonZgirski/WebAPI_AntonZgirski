@@ -40,3 +40,5 @@ D:\C#\TMS\Lab16_WebAPI\Lab16_WebAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
 D:\C#\TMS\Lab16_WebAPI\Lab16_WebAPI\bin\Debug\net7.0\Swashbuckle.Core.dll
 D:\C#\TMS\Lab16_WebAPI\Lab16_WebAPI\bin\Debug\net7.0\Lab16_WebAPI.xml
 D:\C#\TMS\Lab16_WebAPI\Lab16_WebAPI\obj\Debug\net7.0\Lab16_WebAPI.xml
+D:\C#\TMS\Lab16_WebAPI\Lab16_WebAPI\bin\Debug\net7.0\Castle.Core.dll
+D:\C#\TMS\Lab16_WebAPI\Lab16_WebAPI\bin\Debug\net7.0\Moq.dll
